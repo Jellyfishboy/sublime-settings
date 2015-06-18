@@ -1,9 +1,21 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"API Blueprint",
+		"Better CoffeeScript",
 		"BracketHighlighter",
+		"DashDoc",
+		"EmberScript",
 		"GitGutter",
+		"Handlebars",
+		"LESS",
+		"Liquid",
 		"Monokai Extended",
+		"Package Control",
+		"SCSS",
 		"Theme - Flatland"
 	]
 }
